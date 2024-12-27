@@ -1,6 +1,6 @@
 {
     "package": {
-        "productName": "华翊农业",
+        "productName": "哔哩哔哩",
         "version": "0.0.1"
     },
     "tauri": {
@@ -70,7 +70,7 @@
         "bundle": {
             "active": true,
             "targets": ["deb", "appimage", "nsis", "app", "dmg", "updater"],
-            "identifier": "huayinongye.com",
+            "identifier": "m.bilibili.com",
             "icon": [
                 "icons/32x32.png",
                 "icons/128x128.png",
